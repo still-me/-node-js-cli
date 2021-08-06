@@ -1,3 +1,4 @@
+/* eslint-disable space-before-function-paren */
 const { Command } = require('commander');
 const program = new Command();
 

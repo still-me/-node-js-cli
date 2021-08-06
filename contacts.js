@@ -1,3 +1,4 @@
+/* eslint-disable space-before-function-paren */
 const fs = require('fs').promises;
 const path = require('path');
 const chalk = require('chalk');
